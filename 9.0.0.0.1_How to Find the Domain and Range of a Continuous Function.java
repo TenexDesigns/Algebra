@@ -40,6 +40,58 @@ In summary, finding the domain and range of a continuous function involves under
 
 
 
+   restrictions
+--------------------------------------------------------------------------------------------------------
+
+   When finding the domain and range of a function, it's crucial to consider various characteristics and potential restrictions. Here are some factors to look out for:
+
+### 1. Nature of the Function:
+
+1. **Square Roots and Roots in General:**
+   - For functions involving square roots or other roots, the expression inside the root must be non-negative. This is because the square root of a negative number is undefined in the real number system.
+
+2. **Denominators:**
+   - Functions with denominators should avoid division by zero. Set the denominator not equal to zero and solve for \(x\) to identify any restrictions.
+
+3. **Logarithmic Functions:**
+   - The argument of a logarithmic function must be greater than zero. So, \(\log_b(x)\) is defined only for \(x > 0\).
+
+### 2. Asymptotes and Limits:
+
+1. **Vertical Asymptotes:**
+   - For rational functions, vertical asymptotes occur where the denominator is equal to zero. Identify these values and exclude them from the domain.
+
+2. **Horizontal Asymptotes:**
+   - Consider the behavior of the function as \(x\) approaches positive and negative infinity. This can help identify horizontal asymptotes and understand the range.
+
+### 3. Discontinuities:
+
+1. **Jump Discontinuities:**
+   - Functions may have jump discontinuities where the left-hand and right-hand limits differ. Identify and account for these points.
+
+2. **Removable Discontinuities:**
+   - Some functions have removable discontinuities where a point can be removed to make the function continuous. Be aware of such cases.
+
+### 4. Critical Points:
+
+1. **Critical Points:**
+   - Identify critical points where the derivative is zero or undefined. These points may impact the behavior of the function.
+
+### Recommendations:
+
+1. **Graphical Analysis:**
+   - Use graphical tools to visualize the function's behavior. This can provide insights into potential restrictions, asymptotes, and discontinuities.
+
+2. **Algebraic Simplification:**
+   - Simplify algebraic expressions to identify any restrictions or simplifications that can be made to the function.
+
+3. **Domain and Range Definitions:**
+   - Familiarize yourself with the definitions of domain and range and how they apply to different types of functions.
+
+4. **Understanding Special Functions:**
+   - Special functions (trigonometric, exponential, logarithmic) have specific characteristics that impact their domain and range. Understand these characteristics.
+
+Remember that the goal is to identify the set of valid input values (domain) and the corresponding output values (range) for a function. Careful consideration of the function's characteristics and potential restrictions is essential for accurate domain and range determination.
 
 ----------------------------------------------------------------------------------------------------------
 
